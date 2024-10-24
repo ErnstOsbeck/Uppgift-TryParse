@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uppgift TryParse", "Uppgift TryParse\Uppgift TryParse.csproj", "{489F467C-2D4E-4809-B8F0-FAD0BAD95BEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{489F467C-2D4E-4809-B8F0-FAD0BAD95BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{489F467C-2D4E-4809-B8F0-FAD0BAD95BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{489F467C-2D4E-4809-B8F0-FAD0BAD95BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{489F467C-2D4E-4809-B8F0-FAD0BAD95BEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98EC75D4-1279-463C-84BC-82CE4D4F2204}
+	EndGlobalSection
+EndGlobal
